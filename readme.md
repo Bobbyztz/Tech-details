@@ -1,1 +1,1 @@
-# A repo for some special details
+# A repo for some special tech details
