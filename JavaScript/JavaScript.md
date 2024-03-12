@@ -13,3 +13,13 @@ https://javascript.plainenglish.io/javascript-clean-code-best-practice-000ebc23b
 - Avoid conditionals 避免条件句
 - Use method chaining 使用方法链
 - Prefer composition over inheritance
+
+# Promise
+https://fatfish.medium.com/i-lost-a-job-opportunity-just-because-of-promise-all-28cf5d399cae
+- APIs in Promise, understand it and build a self-made one
+- Promise.all
+- Promise.resolve
+- Promise.reject
+- Promise.race
+- Promise.allSettled
+ 
