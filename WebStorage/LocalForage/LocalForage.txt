@@ -1,0 +1,3 @@
+https://levelup.gitconnected.com/sorry-localstorage-now-im-in-love-with-localforage-2767d38cb81c
+- Sorry LocalStorage, Now I’m in Love with LocalForage!
+- Large storage， async no block
